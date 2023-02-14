@@ -47,6 +47,14 @@ if you get this popUp the library is installed
 
 ![image](https://user-images.githubusercontent.com/110636486/218764720-823b85c0-a606-478b-a3e5-5eafed4fbfaa.png)
 
-If i click the button "Uninstall" the script will remove you the library ( type in the console "y" for uninstall the library )
+If i click the button "Uninstall" the script will remove you the library ( type in the console "y" to delete the library )
 
 if you get this popUp the library is removed
+
+## **Load** 
+
+![image](https://user-images.githubusercontent.com/110636486/218766358-d45a9b82-e228-46d4-9f2e-9467d3bfbefe.png)
+
+Click "Show" to see all your libraries
+
+![image](https://user-images.githubusercontent.com/110636486/218766771-c2f69ea3-e05a-4c94-a458-460697432c88.png)
