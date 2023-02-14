@@ -15,9 +15,10 @@ git:
 zip:
 
   *Download the zip, and exsrtract the content in a dir, afrter that open a terminal and run this commands*:
-
-  1. python3 -m pip install -r .\requirements.txt
-  2. python3 .\main.py
+  
+  1. cd NeonPIP
+  2. python3 -m pip install -r .\requirements.txt
+  3. python3 .\main.py
 
 
 # Information:
