@@ -23,4 +23,5 @@ Download the zip, and exsrtract the content in a dir, afrter that open a termina
 # Information:
 
 Python version: 3.10.6 ( required ) 
+
 Qt designer ( required ) 
