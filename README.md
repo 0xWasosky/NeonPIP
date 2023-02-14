@@ -33,7 +33,7 @@ You can:
 # Examples:
 
 
-**Install a library**
+ ## **Install a library**
 
 ![image](https://user-images.githubusercontent.com/110636486/218764720-823b85c0-a606-478b-a3e5-5eafed4fbfaa.png)
 
@@ -43,7 +43,7 @@ if you get this popUp the library is installed
 
 ![image](https://user-images.githubusercontent.com/110636486/218765340-2df0513d-c86d-4eab-ac34-5bb180fb8947.png)
 
-**Delete a library**
+## **Delete a library**
 
 ![image](https://user-images.githubusercontent.com/110636486/218764720-823b85c0-a606-478b-a3e5-5eafed4fbfaa.png)
 
