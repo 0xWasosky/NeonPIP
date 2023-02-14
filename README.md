@@ -34,6 +34,7 @@ You can:
 
 
 **Install a library**
-![image](https://user-images.githubusercontent.com/110636486/218764644-48f2779b-1461-4931-9466-3c4344ecf323.png)
 
+![image](https://user-images.githubusercontent.com/110636486/218764720-823b85c0-a606-478b-a3e5-5eafed4fbfaa.png)
 
+If i click the button "Install" the script will install you the library
