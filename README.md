@@ -6,11 +6,11 @@ A simple implementation for pip in UI
 
 1) git
 
-  git clone https://github.com/0xWasosky/NeonPIP.git
-  cd NeonPIP
+  1. git clone https://github.com/0xWasosky/NeonPIP.git
+  2. cd NeonPIP
 
-  python3 -m pip install -r .\requirements.txt
-  python3 .\main.py
+  3. python3 -m pip install -r .\requirements.txt
+  4. python3 .\main.py
 
 2) zip
 
