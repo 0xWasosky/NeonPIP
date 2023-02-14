@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #2d3142 ;
+color: white;
+</string>
+  </property>
+  <widget class="QPushButton" name="show_libs">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>30</y>
+     <width>121</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid white;
+border-radius: 8px;
+</string>
+   </property>
+   <property name="text">
+    <string>Show</string>
+   </property>
+  </widget>
+  <widget class="QListWidget" name="libs_list">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>81</y>
+     <width>381</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">width: 70%;
+height: 25px;
+margin: 0 auto;
+border: 1px solid white;
+border-radius: 8px;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="clear_libs">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>30</y>
+     <width>121</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid white;
+border-radius: 8px;
+</string>
+   </property>
+   <property name="text">
+    <string>Clear</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

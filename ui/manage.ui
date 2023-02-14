@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>196</width>
+    <height>198</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #2d3142 ;
+color: white;
+</string>
+  </property>
+  <widget class="QPushButton" name="install_lib">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>100</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid white;
+border-radius: 8px;
+</string>
+   </property>
+   <property name="text">
+    <string>Install</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="uninstall_lib">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>140</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid white;
+border-radius: 8px;
+</string>
+   </property>
+   <property name="text">
+    <string>Uninstall</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lib_name">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>50</y>
+     <width>211</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">width: 70%;
+height: 25px;
+margin: 0 auto;
+border: 1px solid white;
+border-radius: 8px;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
