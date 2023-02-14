@@ -26,5 +26,14 @@ zip:
 You can:
 
 1) Install a library
-2) Uninstall a library
+2) Delete a library
 3) Show your libraries
+
+
+# Examples:
+
+
+**Install a library**
+![image](https://user-images.githubusercontent.com/110636486/218764644-48f2779b-1461-4931-9466-3c4344ecf323.png)
+
+
