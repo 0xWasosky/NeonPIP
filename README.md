@@ -38,3 +38,8 @@ You can:
 ![image](https://user-images.githubusercontent.com/110636486/218764720-823b85c0-a606-478b-a3e5-5eafed4fbfaa.png)
 
 If i click the button "Install" the script will install you the library
+
+if you get this popUp the library is installed
+
+![image](https://user-images.githubusercontent.com/110636486/218765170-16615c9d-c9e1-44f9-9e70-dac4ced09161.png)
+
