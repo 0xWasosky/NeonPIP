@@ -21,8 +21,9 @@ zip:
   3. python3 .\main.py
 
 
-# Information:
+# What i can do with this tool?
 
-Python version: 3.10.6 ( required ) 
-
-Qt designer ( required ) 
+You can:
+1) Install a library
+2) Uninstall a library
+3) Show your libraries
