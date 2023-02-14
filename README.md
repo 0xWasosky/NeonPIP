@@ -41,5 +41,4 @@ If i click the button "Install" the script will install you the library
 
 if you get this popUp the library is installed
 
-![image](https://user-images.githubusercontent.com/110636486/218765170-16615c9d-c9e1-44f9-9e70-dac4ced09161.png)
-
+![image](https://user-images.githubusercontent.com/110636486/218765340-2df0513d-c86d-4eab-ac34-5bb180fb8947.png)
