@@ -28,7 +28,8 @@ class Load(QWidget):
         self.clear_button.clicked.connect(self.clear_libs_clicked)
 
     def show_libs_clicked(self):
-        self.libs.addItem(lib.load_libs)
+        for item in lib.load_libs:
+            self.libs.addItem(item)
 
     def clear_libs_clicked(self):
         self.libs.clear()
